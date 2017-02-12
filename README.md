@@ -1,3 +1,4 @@
+
 # EOS-Apps
 Various Applications for EOS Platform
 
@@ -10,5 +11,7 @@ eosburstdisplay.py - is an application for the small raspberry 7" display to rea
 eosinfo.py - is a script that supports sending data to the PiFace that is installed on the station. This will display the status of the station and you can retreve some network data (IP Address etc) . eosinfo2.py is for older stations
 
 eosplots.py - generates various daily/weekly plots (pictures) from the station data. These can then be used in websites to quickly see historical data. It also uploads any camera images to a remote site.
+
+eostide.py - calculates tide tables for use with depth reading and produces a graph from a tide station. 
 
 noaa.py / noaayr.py - generates a noaa standard report in txt format. 
